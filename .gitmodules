@@ -1,0 +1,6 @@
+[submodule "PhigrosDB-project-database"]
+	path = PhigrosDB-project-database
+	url = git@github.com:CherryAya/PhigrosDB-project-database.git
+[submodule "PhigrosDB-project-api"]
+	path = PhigrosDB-project-api
+	url = git@github.com:CherryAya/PhigrosDB-project-api.git
